@@ -13,4 +13,4 @@ This repository was created to practice Git and GitHub workflows, including comm
 This repository is used to practice Git and GitHub workflows.
 
 ## Contributors
--Inderveer Singh
+-Main Branch Developer
