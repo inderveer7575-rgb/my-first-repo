@@ -10,7 +10,7 @@ This repository was created to practice Git and GitHub workflows, including comm
 3.Open the project in VS Code.
 
 ## Usage
-This repository is used to practice Git and GitHub workflows.
+This repository is used to practice Git and GitHub workflows from the main branch.
 
 ## Contributors
 Inderveer Singh
